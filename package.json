@@ -1,0 +1,16 @@
+{
+  "name": "banco_projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "compile": "npx tsc",
+    "start": "npx tsc & node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.5.4"
+  }
+}
